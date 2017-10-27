@@ -23,6 +23,6 @@ function dec(n) {
 
 function makeInt(n) {
 var result = parseInt("n", 10)
-n = 2
-return result
+n = 0
+return result 
 }
