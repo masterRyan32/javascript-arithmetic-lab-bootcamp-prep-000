@@ -16,3 +16,9 @@ function inc(n) {
   result += 1
   return result
 }
+
+function dec(n) {
+  var result = n
+  result n -= 1
+  return result
+}
