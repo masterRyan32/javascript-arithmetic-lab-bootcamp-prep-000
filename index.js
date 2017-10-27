@@ -25,3 +25,10 @@ function makeInt(n) {
 parseInt(n, 10)
  return n
 }
+
+function makeInt(n){
+n = "2"
+parseInt(n,10)
+return parseInt(n)
+
+}
