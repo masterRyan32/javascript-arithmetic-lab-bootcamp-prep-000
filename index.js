@@ -25,4 +25,4 @@ function makeInt(n) {
 parseInt(n, 10)
  return n
 }
-makeInt("10")
+makeInt(n)
