@@ -27,6 +27,6 @@ parseInt(n, 10)
 }
 
 function makeInt(n){
-n = parseInt(2,10)
+n = parseInt("2",10)
 return n
 }
