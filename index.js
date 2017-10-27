@@ -22,7 +22,6 @@ function dec(n) {
 }
 
 function makeInt(n) {
-  n = 695
-
-return parseInt(n, 100)
+  n = 2
+return parseInt(n, 10)
 }
