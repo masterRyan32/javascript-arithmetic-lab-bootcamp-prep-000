@@ -10,6 +10,9 @@ function multiply(a,b) {
 function divide (a, b) {
   return a / b
 }
+
 function inc(n) {
-  return n
+  var result = n
+  result += 1
+  return result
 }
